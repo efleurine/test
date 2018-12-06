@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build:bs": "bsb -make-world",
-    "start:bs": "bsb -make-world -w",
-    "clean:bs": "bsb -clean-world"
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
   },
   "keywords": [
     "BuckleScript"

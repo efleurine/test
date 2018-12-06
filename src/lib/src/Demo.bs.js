@@ -6,6 +6,8 @@ console.log("Hello, BuckleScript and Reason!");
 
 console.log("Make it run");
 
-console.log("Make it run cool");
+console.log("I hope this work");
+
+console.log("It is cool not you are working");
 
 /*  Not a pure module */
